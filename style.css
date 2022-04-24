@@ -1,0 +1,129 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+h1{
+   font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    color: dimgrey;
+}
+.name-highlight{
+    color: deeppink;
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("asset/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 900px;
+    
+}
+.link-button{
+   text-decoration: none;
+   background-image: linear-gradient(45deg, hotpink, deeppink);
+   padding: 10px 20px;
+   border-radius: 10px;
+   color: white;
+   font-weight: 700px; 
+}
+.bio-banner{
+    background-image: url("asset/biography-bg.png");
+    background-repeat: no-repeat;
+}  
+.work-section{
+    text-align: center;
+}
+.work-button{
+    display: flex;    
+               
+}
+.work-img{
+    flex: 33.33%;  
+    margin: 5px;
+    padding: 5px;
+}
+.work-img img{  
+    width: 100%;    
+}
+.work-banner{
+    background-image: url("asset/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    padding: 70px;    
+}
+.client-section{
+   margin: 10%;
+   padding: 5%;
+   height: 177.1675%;
+   width:450%
+   
+}
+.client-heading{
+    text-align: center;
+    font-weight: 300;
+    background-image: url("asset/footer-bg.png");
+    background-repeat: no-repeat;                                                                           
+   
+} 
+.heading-1{
+    text-align: center;
+    margin: 0%;
+}
+.heading-2{
+    text-align: center;
+    font-weight:100;
+    color: dimgrey;
+    margin: 10px;
+}
+.p-headline{
+    padding-top: 2%;
+}
+.para-heading{
+    text-align: center;
+    color: black;
+    margin: 0%;  
+}
+.box-heading{ 
+   margin:15%;
+   height: 200px;
+   width: 800px;
+   padding: 3%;
+   background-image: linear-gradient(45deg, hotpink, deeppink);
+   color: white;
+   
+}
+
+.box-head-1{
+    text-align: center;
+    margin: 5px;
+    padding: 2%;
+    font-weight: 500;
+   
+
+}
+.box-head-2{
+    text-align: center;
+    margin: 0%;
+    color: white;
+    font-weight: 500;
+}
+.footer-section{
+   text-align: center;
+   color: dimgray;  
+}
